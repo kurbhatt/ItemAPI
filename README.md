@@ -1,15 +1,15 @@
 # Item API Provider
 
 You can do following actions using this application:
-    * Call Hello
-    * List All Items or Get Item by Priority
-    * Get Item by Id
-    * Add Item with Provided Validations
-    * Update Item with Provided Validations by Id
-    * Delete item by Id
-    * Multiply numberA and numberB after Provided Validations.
+    - Call Hello
+    - List All Items or Get Item by Priority
+    - Get Item by Id
+    - Add Item with Provided Validations
+    - Update Item with Provided Validations by Id
+    - Delete item by Id
+    - Multiply numberA and numberB after Provided Validations.
 
-To build and deploy please execute batch file: ### build and deploy.bat
+### To build and deploy please execute batch file: build and deploy.bat
 
 You will also able to test REST APIs using browser:
 
