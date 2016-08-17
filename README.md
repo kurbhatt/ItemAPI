@@ -9,7 +9,9 @@ You can do following actions using this application:
   - Delete item by Id
   - Update Item with Provided Validations by Id
 
-> To build and deploy please execute batch file: build and deploy.bat
+
+> To build and deploy please execute batch [file](https://github.com/kurbhatt/ItemAPI/blob/master/build%20and%20deploy.bat)
+
 
 You will also able to test REST APIs using browser:
   - Open localhost:8080/api in browser
@@ -17,8 +19,8 @@ You will also able to test REST APIs using browser:
   - Swagger is REST API test package like SOAPUI and Browser based Advanced REST Client.
 
 For further Query or Found any Issue Please Contact:
+
 [EmailMe](mailto:info.keyurbhatt@gmail.com)
 
-```javascript
-Skype: writetokeyur
-```
+## Skype: writetokeyur
+
