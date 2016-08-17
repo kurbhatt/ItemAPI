@@ -22,5 +22,9 @@ You will also able to test REST APIs using browser:
     3. Swagger is REST API test package like SOAPUI and Browser based Advanced REST Client.
 
 For further Query or Found any Issue Please Contact:
-    Email: writetokeyur@outlook.com
+
+    [Email Me](writetokeyur@outlook.com)
+
+    ```sh
     Skype: writetokeyur
+    ```
