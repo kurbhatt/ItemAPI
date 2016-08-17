@@ -14,13 +14,13 @@ You can do following actions using this application:
 
 
 You will also able to test REST APIs using browser:
-  - Open localhost:8080/api in browser
+  - Open **localhost:8080/api** in browser
   - Swagger UI is implemented to test the APIs with all the details of REST methods, required input and method response will also be provide for each REST method.
   - Swagger is REST API test package like SOAPUI and Browser based Advanced REST Client.
 
 For further Query or Found any Issue Please Contact:
 
-[EmailMe](mailto:info.keyurbhatt@gmail.com)
+**Email: info.keyurbhatt@gmail.com**
 
-## Skype: writetokeyur
+**Skype: kurbhatt**
 
