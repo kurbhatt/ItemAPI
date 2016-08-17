@@ -9,20 +9,14 @@ You can do following actions using this application:
   - Delete item by Id
   - Update Item with Provided Validations by Id
 
-
-### To build and deploy please execute batch file: build and deploy.bat
+> To build and deploy please execute batch file: build and deploy.bat
 
 You will also able to test REST APIs using browser:
-
-    1. open localhost:8080/api
-
-    2. swagger UI is implemented to test the APIs with all the details of REST methods, required input and method
-       response will also be provide for each REST method.
-
-    3. Swagger is REST API test package like SOAPUI and Browser based Advanced REST Client.
+  - Open localhost:8080/api in browser
+  - Swagger UI is implemented to test the APIs with all the details of REST methods, required input and method response will also be provide for each REST method.
+  - Swagger is REST API test package like SOAPUI and Browser based Advanced REST Client.
 
 For further Query or Found any Issue Please Contact:
-
 [EmailMe](mailto:info.keyurbhatt@gmail.com)
 
 ```javascript
